@@ -10,7 +10,7 @@ public class movement : MonoBehaviour
 
     public float jumpSpeed = 10f;
 
-    public float distToGround;T
+    public float distToGround;
 
     // Start is called before the first frame update
     void Start()
